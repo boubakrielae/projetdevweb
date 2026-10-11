@@ -1,0 +1,18 @@
+body{
+    font-style: italic;
+    background-color: pink;
+    
+}
+table{
+    border-radius: 20px;
+    background-color: rgb(148, 215, 215);
+    width: 60%;
+    border: 10px;
+    
+    
+}
+caption{
+    font-style: italic;
+    color: blueviolet;
+    font-size: 18px;
+}

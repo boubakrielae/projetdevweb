@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: pink;
+}
+nav{
+    background-color: rgb(145, 202, 225);
+    padding: 10px;
+    color: rgb(20, 20, 94);
+    font-style: italic;
+}
+a{
+    color: rgb(20, 20, 94);
+}
+a:hover{
+    color: pink;
+}
+section{
+    padding: 15px;
+    margin: 15px;
+}
+p{
+    font-style: italic;
+    color: violet;
+}
+h2{
+    font-style: italic;
+    color: blueviolet;
+}
